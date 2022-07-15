@@ -1,3 +1,9 @@
-# medcare
- Site do hospital, contendo informações adicionais de serviços, avaliações, médicos, blogs, e muito mais.
- Acesse: https://gabrielssobrinho.github.io/hospital/.
+# Medcare
+
+Projeto construindo o front-end de um website de hospital.
+
+## 🛠️ Tecnologias
+
+* Visual Studio Code.
+
+Acesse: https://gabrielssobrinho.github.io/medcare/.
